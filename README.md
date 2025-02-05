@@ -4,6 +4,10 @@ Repository containing all supporting materials for past 42AI conferences and eve
   <img alt="Logo 42AI" width="128px" src="https://avatars.githubusercontent.com/u/25845683?s=400&u=119cc089ebbec202d57300317f004b5eda482115&v=4">
 </p>
 
+## 2025
+
+##### [February 3rd, 42 Paris - Pierina Camarena - Technical Paths to AI Safety](https://github.com/42-AI/conferences/blob/main/20250203-Technical_paths_to_AI_safety.pdf)
+
 ## 2024 
 
 ##### [March 6th, 42 Paris - Amir Mahla - Intro to LLMs and Prompt Engineering](https://github.com/42-AI/conferences/blob/main/20240306-Intro_to_LLMs_and_Prompt_Engineering.pdf)
